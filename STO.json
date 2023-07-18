@@ -1,5 +1,3 @@
-
-
 {
 
   "ID": "moeble",
@@ -36,6 +34,16 @@
  "Generation": "none",
  "Year": 1978,
  "Engine": 1.4,
+ "Fuel": "Benzine",
+
+
+ "ID": "Car",
+ "Maker": "ZAZ",
+  "Country": "Ukraine",
+ "Model": "968M",
+ "Generation": "none",
+ "Year": 1980,
+ "Engine": 1.19,
  "Fuel": "Benzine"
 
 }
