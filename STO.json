@@ -1,0 +1,19 @@
+ {
+
+  "ID": "moeble",
+ "Model": "KT666",
+   "Type": "LT",
+   "Year": 2023,
+  "Maker": "HP",
+ "Number": 380,
+
+
+   "ID": "comp",
+  "OS" : "Win",
+  "Model": "KT666",
+   "Type": "LT",
+   "Year": 2023,
+  "Maker": "HP",
+ "Number": 380
+
+ }
