@@ -19,12 +19,23 @@
  "Number": 380,
 
 
-   "ID": "Car",
+  "ID": "Car",
  "Maker": "Ford",
+  "Country": "USA",
  "Model": "Mustang",
  "Generation": "Shelby GT500",
  "Year": 1968,
  "Engine": 5.4,
- "Fuel": "Bensine"
+ "Fuel": "Benzine",
 
- }
+
+"ID": "Car",
+ "Maker": "FSO Polonez",
+  "Country": "Poland",
+ "Model": "1978",
+ "Generation": "none",
+ "Year": 1978,
+ "Engine": 1.4,
+ "Fuel": "Benzine"
+
+}
